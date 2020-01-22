@@ -1,12 +1,15 @@
 # Portfolio
 
 **Portfolio/Trilogy Bootcamp Homework #1**
+
 This is the first assignment for a coding bootcamp. It is meant to be an example of how to make a basic portfolio website with a navbar, placeholders for projects and an "About Me" section using only HTML and CSS.
 
 **Installation and Usage**
+
 This is a very basic website that is accessible to most people as-is by opening the files in any browser. Feel free to replace my picture with a clown's picture and rewrite the "About Me" section if it will give you some happiness in your day. (but don't post it online--I've got a job I don't want to lose.)
 
 **Credits**
+
 I worked on this alone but asked a friend at work to look over it after I was done so I wouldn't embarrass myself. (or probably wouldn't embarrass myself)
 
 
